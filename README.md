@@ -41,7 +41,7 @@ longitudinal infant data that will be collected over the first ten years of life
 
 **Keywords**: cross-sectional, pediatric, adolescent, T1w, T2w, dMRI, rsFMRI, tFMRI
 
-### [HBN v10.0](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#Direct%20Down)
+### [HBN v10.0](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/Phenotypic.html)
 Healthy Brain Network from the Child Mind Institute, 5-21 years, typical NYC population, neuroimaging and phenotypic data, goal N = 10000
 
 **Keywords**: pediatric, adolescent, T1w, T2w, dMRI, rsFMRI, EEG, IN PROGRESS 
